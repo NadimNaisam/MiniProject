@@ -428,6 +428,10 @@ h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+.sizebuttons{
+  border-radius:3.5px;
+}
+
 @media (max-width: 991px) {
   #hero {
     height: 100vh;

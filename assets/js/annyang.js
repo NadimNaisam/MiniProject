@@ -11,6 +11,10 @@ window.onload = function()
           window.location.href = '#';
         },
 
+        'Start shopping':function(){
+          window.location.href='#about';
+        },
+
         'set quantity to *num': function() {
           
 
