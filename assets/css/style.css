@@ -404,7 +404,7 @@ h6 {
 
 .btn-font-change {
   font-family: "Raleway", sans-serif;
-  font-weight: 800px;
+  font-weight:bolder;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
